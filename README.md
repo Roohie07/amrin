@@ -1,2 +1,2 @@
 # amrin
-update hello  text  file
+trying the basics in GitHub
